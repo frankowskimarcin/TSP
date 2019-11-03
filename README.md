@@ -1,2 +1,2 @@
 # TSP
-Travelling Salesman Problem
+Solution for symmetric travelling salesman problem
