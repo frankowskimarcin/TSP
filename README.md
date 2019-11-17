@@ -1,2 +1,2 @@
 # TSP
-Solution for symmetric travelling salesman problem
+Greedy solution for symmetric travelling salesman problem using Nearest Neighbor algorithm
